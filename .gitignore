@@ -5,7 +5,7 @@
 /lesson-01/jsx/node_modules
 /lesson-01/lifecycle/node_modules
 /lesson-01/renderization/node_modules
-/lesson-02/webpack/node_modules
+/lesson-02/webpackconfig/node_modules
 /.pnp
 .pnp.js
 
