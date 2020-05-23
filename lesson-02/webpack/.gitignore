@@ -1,11 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/lesson-01/components/node_modules
-/lesson-01/jsx/node_modules
-/lesson-01/lifecycle/node_modules
-/lesson-01/renderization/node_modules
-/lesson-02/webpack/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
