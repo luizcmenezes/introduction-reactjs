@@ -1,8 +1,8 @@
 import React from "react"
 
-function ComponenteB() {
+function ComponenteB(porps) {
     return (
-        <h2>Componente B!</h2>
+    <div>Componente B! {porps.children} </div>
     )
 }
 

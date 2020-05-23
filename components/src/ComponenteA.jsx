@@ -1,8 +1,10 @@
 import React from "react"
 
-function ComponenteA() {
+function ComponenteA(props) {
     return (
-        <div>Componente A!</div>
+        <div>Componente A!
+            <div>{props.children}</div>
+        </div>
     )
 }
 
